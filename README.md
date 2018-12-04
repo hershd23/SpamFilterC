@@ -1,2 +1,2 @@
 # SpamFilterC
-A Spam filter in C language
+A Spam filter made from scratch in C.
