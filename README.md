@@ -12,4 +12,3 @@ The accuracy on the english.txt file is above 95%.
 
 ## Author
 Hersh Dhillon
-Feel free to use the code in the given repository as per your wish
